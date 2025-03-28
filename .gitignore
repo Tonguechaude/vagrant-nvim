@@ -1,0 +1,4 @@
+.vscode
+.vagrant
+modules/vcsrepo
+modules/neovim
